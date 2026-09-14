@@ -1,0 +1,8 @@
+{
+  "id": "com.yourname.rockpaperscissors",
+  "name": "Камень Ножницы Бумага",
+  "version": "1.0.0",
+  "description": "Игра КНБ на PKOIN с 10 комнатами ставок",
+  "scope": ["account", "payments"],
+  "icon": "icon.png"
+}
